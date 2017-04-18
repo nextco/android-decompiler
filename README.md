@@ -16,8 +16,7 @@ Tested on Arch Linux & Windows 8.1 Pro
 Time Spend: 5 days.    
 
 ## Background
-A curated list is create by [Aditya Agrawal](https://github.com/exploitprotocol/mobile-security-wiki)
-[The preview](https://mobilesecuritywiki.com/#-reverse-engineering-tools-)
+A [curated list](https://mobilesecuritywiki.com/#-reverse-engineering-tools-) is create by Aditya Agrawal
 
 
 ## Get info of Apk
@@ -33,7 +32,7 @@ ClassyShark is also useful to accurate spy the class, constructors, variables an
 </p>
 
 ### Goal -  Get Resources
-Like a images, assets, html, sounds, js
+Get images, assets, html, sounds, js.
 
 - Primary tool: Apktool 2.2.2 [Download](https://ibotpeaches.github.io/Apktool/) by ibotpeaches
 <p align="center">
@@ -49,9 +48,9 @@ Like a images, assets, html, sounds, js
 I know dex2jar, on this project aim to select the best tools currently, dex2jar is careless and outdated.
 
 ## Get .java from .jar
-Fortunately on this point are good choices, they are sorted by use.  
+Fortunately on this point are good choices, they are sorted by my own use.  
 
-### Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava) [Open Source](https://github.com/niranjan94/show-java)  
+### Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava) [Source](https://github.com/niranjan94/show-java)  
 <p align="center">
   <img src="img/show-java.png">
   <img src="img/show-java-1.png">
@@ -76,8 +75,8 @@ Fortunately on this point are good choices, they are sorted by use.
 ![](img/d4j.png)
 
 Also tested:  
-FernFlower & Krakatau unsuccessfully **not recommended** early stages   
-[Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) **not recommended** currently is outdated hope update with last versions.
+FernFlower & Krakatau unsuccessfully **not recommended** dev in early stages   
+Bytecode Viewer **not recommended** currently is outdated hope update with last versions.
   
 ## Extra - Android Player
 This is special category, because i want Play Store, Games, Apps a virtual replace of my android on PC, not for dev. A complete replace for phone on pc for daily use.
