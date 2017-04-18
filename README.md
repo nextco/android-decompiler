@@ -49,31 +49,35 @@ Like a images, assets, html, sounds, js
 I know dex2jar, on this project aim to select the best tools currently, dex2jar is careless and outdated.
 
 ## Get .java from .jar
-Fortunately on this point are good choices, they are sorted by use.
-- Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava)
-![](img/show-java.png)
-![](img/show-java-1.png)
+Fortunately on this point are good choices, they are sorted by use.  
 
-- jadx-gui [Download](https://github.com/skylot/jadx)
+### Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava)
+<p align="center">
+  <img src="img/show-java.png">
+  <img src="img/show-java-1.png">
+</p>
+
+### jadx-gui [Download](https://github.com/skylot/jadx)
 ![](img/jadx.png)
   
 
-- jd-gui
+### jd-gui [Download](http://jd.benow.ca/)
 <p align="center">
   <img src="img/jd-gui.png">
 </p>
   
 
-- CFR 0_121 [Download](http://www.benf.org/other/cfr/)
+### CFR 0_121 [Download](http://www.benf.org/other/cfr/)
 <p align="center">
   <img src="img/cfr.png">
 </p>  
 
-- d4j-procyon [Download](https://secureteam.net/d4j)
+### d4j-procyon [Download](https://secureteam.net/d4j)
 ![](img/d4j.png)
 
 Also tested, FernFlower & Krakatau unsuccessfully
 
+  
 ## Extra - Android Player
 This is special category, because i want Play Store, Games, Apps a virtual replace of my android on PC, not for dev. A complete replace for phone on pc for daily use.
 
