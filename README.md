@@ -13,7 +13,7 @@ Lets Go! This project is maintained by @nextco
 ## The process 
 Install, intense test the tools, no short path and select the best.  
 Tested on Arch Linux & Windows 8.1 Pro  
-Time Spend: 5 days  
+Time Spend: 5 days.    
 
 ## Background
 A curated list is create by [Aditya Agrawal](https://github.com/exploitprotocol/mobile-security-wiki)
@@ -51,7 +51,7 @@ I know dex2jar, on this project aim to select the best tools currently, dex2jar 
 ## Get .java from .jar
 Fortunately on this point are good choices, they are sorted by use.  
 
-### Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava)
+### Show Java Android App [Download](https://play.google.com/store/apps/details?id=com.njlabs.showjava) [Open Source](https://github.com/niranjan94/show-java)  
 <p align="center">
   <img src="img/show-java.png">
   <img src="img/show-java-1.png">
@@ -75,8 +75,9 @@ Fortunately on this point are good choices, they are sorted by use.
 ### d4j-procyon [Download](https://secureteam.net/d4j)
 ![](img/d4j.png)
 
-Also tested, FernFlower & Krakatau unsuccessfully
-
+Also tested:  
+FernFlower & Krakatau unsuccessfully **not recommended** early stages   
+[Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) **not recommended** currently is outdated hope update with last versions.
   
 ## Extra - Android Player
 This is special category, because i want Play Store, Games, Apps a virtual replace of my android on PC, not for dev. A complete replace for phone on pc for daily use.
@@ -93,3 +94,8 @@ On next steps for dev app best emulator are of course, Android Emulator
 <p align="center">
   <img src="img/android-emulator.png">
 </p>
+
+
+
+### Promises, Look Good!  
+- Smali code improve readability [SimpleSmali](https://github.com/dodola/SimpleSmali)
